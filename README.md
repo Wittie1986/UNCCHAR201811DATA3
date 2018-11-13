@@ -37,8 +37,7 @@ You must give a full effort on every group and individual project.
 
 ## Important Links And Notes
 
-- [Lesson Recordings]
-- 
+
 - [Getting Started with Gitlab](guides/gitlab/readme.md)
 
 -----------------------------------------
