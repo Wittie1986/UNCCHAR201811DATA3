@@ -69,7 +69,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 | Intro to Graphing with Matplotlib                           | 12/15/18 | S            | 10:00 AM    | 
 | Matplotlib Advanced Customization                           | 12/17/18 | M            | 6:30 PM     | 
 | Real-World Data Visualization with Matplotlib               | 12/19/18 | W            | 6:30 PM     | 
-| Working with Web Data (API Requests)                        | 12/22/18 | S            | 10:00 AM    | 
+| Working with Web Data (API Requests)                        | TBD      | N/A          | N/A         | 
 | JSON Traversal and Data Parsing                             | 1/2/19   | W            | 6:30 PM     | 
 | Visualizing Financial Deserts with Google Places and Census | 1/5/19   | S            | 10:00 AM    | 
 | Intro to Social Media Mining (Facebook)                     | 1/7/19   | M            | 6:30 PM     | 
