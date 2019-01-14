@@ -79,7 +79,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 | 8.1  | Project Work                                                | 1/12/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
 | 8.2  | Project Work                                                | 1/14/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
 |      | Project Work                                                | 1/19/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More 
- | MLK - Off |                                                       | 1/21/2019
+ | MLK - Off                                                         | 1/21/2019  | M |
 | 8.3  | Project Presentations                                       | 1/23/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
 | 9.1  | Introduction to MySQL I                                     | 1/26/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
 | 9.2  | Introduction to MySQL II                                    | 1/28/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
