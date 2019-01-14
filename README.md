@@ -53,77 +53,79 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 ## Technical Curriculum by Week
                                                              |          |              |             | 
 |-------------------------------------------------------------|----------|--------------|-------------| 
-| Topic                                                       | Date     | Day of Week  | Start Time  | 
-| Dipping Into Data                                           | 11/12/18 | M            | 6:30 PM     | 
-| Accelerating Through Excel                                  | 11/14/18 | W            | 6:30 PM     | 
-| Charting a New Course in Excel                              | 11/17/18 | S            | 10:00 AM    | 
-| Very VBA                                                    | 11/19/18 | M            | 6:30 PM     | 
-| Vexing VBA                                                  | 11/26/18 | M            | 6:30 PM     | 
-| Getting Real With VBA                                       | 11/28/18 | W            | 6:30 PM     | 
-| Introduction to Python I                                    | 12/1/18  | S            | 10:00 AM    | 
-| Introduction to Python II                                   | 12/3/18  | M            | 6:30 PM     | 
-| Introduction to Python III                                  | 12/5/18  | W            | 6:30 PM     | 
-| Introduction to Numpy and Pandas                            | 12/8/18  | S            | 10:00 AM    | 
-| Data Munging with Pandas                                    | 12/10/18 | M            | 6:30 PM     | 
-| Real-World Data Parsing with Pandas                         | 12/12/18 | W            | 6:30 PM     | 
-| Intro to Graphing with Matplotlib                           | 12/15/18 | S            | 10:00 AM    | 
-| Matplotlib Advanced Customization                           | 12/17/18 | M            | 6:30 PM     | 
-| Real-World Data Visualization with Matplotlib               | 12/19/18 | W            | 6:30 PM     | 
-| Working with Web Data (API Requests)                        | TBD      | N/A          | N/A         | 
-| JSON Traversal and Data Parsing                             | 1/2/19   | W            | 6:30 PM     | 
-| Visualizing Financial Deserts with Google Places and Census | 1/5/19   | S            | 10:00 AM    | 
-| Intro to Social Media Mining (Facebook)                     | 1/7/19   | M            | 6:30 PM     | 
-| Intro to Social Media Mining (Twitter, Tweepy)              | 1/9/19   | W            | 6:30 PM     | 
-| Twitter Bot Building                                        | 1/12/19  | S            | 10:00 AM    | 
-| Project Work + Mini-Session                                 | 1/14/19  | M            | 6:30 PM     | 
-| Project Work + Mini-Session                                 | 1/16/19  | W            | 6:30 PM     | 
-| Project Work + Mini-Session                                 | 1/19/19  | S            | 10:00 AM    | 
-| Project Work                                                | 1/23/19  | W            | 6:30 PM     | 
-| Project Work                                                | 1/26/19  | S            | 10:00 AM    | 
-| Project Presentations                                       | 1/28/19  | M            | 6:30 PM     | 
-| Introduction to MySQL I                                     | 1/30/19  | W            | 6:30 PM     | 
-| Introduction to MySQL II                                    | 2/2/19   | S            | 10:00 AM    | 
-| SQL Application Building #1                                 | 2/4/19   | M            | 6:30 PM     | 
-| Advanced SQL I                                              | 2/6/19   | W            | 6:30 PM     | 
-| Advanced SQL II                                             | 2/9/19   | S            | 10:00 AM    | 
-| SQL Application Building #2                                 | 2/11/19  | M            | 6:30 PM     | 
-| Intro to Web Design (HTML / CSS)                            | 2/13/19  | W            | 6:30 PM     | 
-| Intro to Web Frameworks (Bootstrap)                         | 2/16/19  | S            | 10:00 AM    | 
-| Web Dashboard Building                                      | 2/20/19  | W            | 6:30 PM     | 
-| Web Scraping 101 (Beautiful Soup)                           | 2/23/19  | S            | 10:00 AM    | 
-| Web Scraping 102 + Intro to MongoDB                         | 2/25/19  | M            | 6:30 PM     | 
-| Data Scraping the News                                      | 2/27/19  | W            | 6:30 PM     | 
-| Intro to JavaScript I                                       | 3/2/19   | S            | 10:00 AM    | 
-| Intro to JavaScript II                                      | 3/4/19   | M            | 6:30 PM     | 
-| Intro to Javascript III                                     | 3/6/19   | W            | 6:30 PM     | 
-| JavaScript APIs                                             | 3/9/19   | S            | 10:00 AM    | 
-| JavaScript Web Charting                                     | 3/11/19  | M            | 6:30 PM     | 
-| Interactive Data Visualizations                             | 3/13/19  | W            | 6:30 PM     | 
-| Fundamentals of D3.js I                                     | 3/16/19  | S            | 10:00 AM    | 
-| Fundamentals of D3.js II                                    | 3/18/19  | M            | 6:30 PM     | 
-| Advanced Concepts in D3.js                                  | 3/20/19  | W            | 6:30 PM     | 
-| Geomapping 101 with Leaflet.js                              | 3/23/19  | S            | 10:00 AM    | 
-| Geomapping 102 with Leaflet.js                              | 3/25/19  | M            | 6:30 PM     | 
-| Primer on CartoDB                                           | 3/27/19  | W            | 6:30 PM     | 
-| Project Work + Mini-Session                                 | 3/30/19  | S            | 10:00 AM    | 
-| Project Work + Mini-Session                                 | 4/1/19   | M            | 6:30 PM     | 
-| Project Work + Mini-Session                                 | 4/3/19   | W            | 6:30 PM     | 
-| Project Work                                                | 4/6/19   | S            | 10:00 AM    | 
-| Project Work                                                | 4/8/19   | M            | 6:30 PM     | 
-| Project Presentations                                       | 4/10/19  | W            | 6:30 PM     | 
-| Business Intelligence with Tableau                          | 4/13/19  | S            | 10:00 AM    | 
-| Interconnected Data with Tableau                            | 4/15/19  | M            | 6:30 PM     | 
-| Real-World Tableau Dashboarding                             | 4/17/19  | W            | 6:30 PM     | 
-| Introduction to Big Data                                    | 4/20/19  | S            | 10:00 AM    | 
-| Deep Dive into Hadoop                                       | 4/22/19  | M            | 6:30 PM     | 
-| Pig, Hive, Sqoop Process Development                        | 4/24/19  | W            | 6:30 PM     | 
-| Introduction to Machine Learning                            | 4/27/19  | S            | 10:00 AM    | 
-| Machine Learning Algorithms with Sci-Kit Learn              | 4/29/19  | M            | 6:30 PM     | 
-| Algorithm (Classification) Implementation                   | 5/1/19   | W            | 6:30 PM     | 
-| Project Work + Mini-Session                                 | 5/4/19   | S            | 10:00 AM    | 
-| Project Work + Mini-Session                                 | 5/6/19   | M            | 6:30 PM     | 
-| Project Work + Mini-Session                                 | 5/8/19   | W            | 6:30 PM     | 
-| Project Work                                                | 5/11/19  | S            | 10:00 AM    | 
-| Project Work                                                | 5/13/19  | M            | 6:30 PM     | 
-| Final Presentations                                         | 5/15/19  | W            | 6:30 PM     | 
+||      |                                                             |            |   |          |                   |           | 
+|------|-------------------------------------------------------------|------------|---|----------|-------------------|-----------| 
+| 1.1  | Dipping Into Data                                           | 11/12/2018 | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 1.2  | Accelerating Through Excel                                  | 11/14/2018 | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 1.3  | Charting a New Course in Excel                              | 11/17/2018 | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 2.1  | Very VBA                                                    | 11/19/2018 | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 2.2  | Vexing VBA                                                  | 11/21/2018 | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 2.3  | Getting Real With VBA                                       | 11/26/2018 | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 3.1  | Introduction to Python I                                    | 11/28/2018 | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 3.2  | Introduction to Python II                                   | 12/1/2018  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 3.3  | Introduction to Python III                                  | 12/3/2018  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 4.1  | Introduction to Pandas                                      | 12/5/2018  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 4.2  | Data Munging with Pandas                                    | 12/8/2018  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 4.3  | Real-World Data Parsing with Pandas                         | 12/10/2018 | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 5.1  | Intro to Graphing with Matplotlib                           | 12/12/2018 | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 5.2  | Matplotlib Advanced Customization                           | 12/15/2018 | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 5.3  | Real-World Data Visualization with Matplotlib               | 12/17/2018 | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 6.1  | Working with Web Data (API Requests)                        | 12/19/2018 | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 6.2  | JSON Traversal and Data Parsing                             | 12/22/2018 | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 6.3  | Visualizing Financial Deserts with Google Places and Census | 1/2/2019   | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 7.1  | Project Work                                                | 1/5/2019   | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 7.2  | Project Work                                                | 1/7/2019   | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 7.3  | Project Work                                                | 1/9/2019   | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 8.1  | Project Work                                                | 1/12/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 8.2  | Project Work                                                | 1/14/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 8.3  | Project Presentations                                       | 1/23/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 9.1  | Introduction to MySQL I                                     | 1/26/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 9.2  | Introduction to MySQL II                                    | 1/28/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 9.3  | SQL Application Building #1                                 | 1/30/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 10.1 | Advanced SQL I                                              | 2/2/2019   | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 10.2 | Advanced SQL II                                             | 2/4/2019   | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 10.3 | SQL Application Building #2                                 | 2/6/2019   | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 11.1 | Intro to Web Design (HTML / CSS)                            | 2/9/2019   | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 11.2 | Intro to Web Frameworks (Bootstrap)                         | 2/11/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 11.3 | Web Dashboard Building                                      | 2/13/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 12.1 | Web Scraping 101 (Beautiful Soup)                           | 2/16/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 12.2 | Web Scraping 102 + Intro to MongoDB                         | 2/18/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 12.3 | Data Scraping the News                                      | 2/20/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 13.1 | Intro to ETL                                                | 2/23/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 13.2 | ETL Project Work                                            | 2/25/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 13.3 | ETL Project Work                                            | 2/27/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 14.1 | Intro to JavaScript I                                       | 3/2/2019   | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 14.2 | Intro to JavaScript II                                      | 3/4/2019   | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 14.3 | Intro to Javascript III                                     | 3/6/2019   | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 15.1 | JavaScript APIs                                             | 3/9/2019   | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 15.2 | JavaScript Web Charting                                     | 3/11/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 15.3 | Interactive Data Visualizations                             | 3/13/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 16.1 | Fundamentals of D3.js I                                     | 3/16/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 16.2 | Fundamentals of D3.js II                                    | 3/18/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 16.3 | Advanced Concepts in D3.js                                  | 3/20/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 17.1 | Geomapping 101 with Leaflet.js                              | 3/23/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 17.2 | Geomapping 102 with Leaflet.js                              | 3/25/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 17.3 | Leaflet + Project Work                                      | 3/27/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 18.1 | Introduction to R & Project Work                            | 3/30/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 18.2 | Data Wrangling in R & Project Work                          | 4/1/2019   | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 18.3 | Project Work                                                | 4/3/2019   | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 19.1 | Project Work                                                | 4/6/2019   | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 19.2 | Project Work                                                | 4/8/2019   | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 19.3 | Project Presentations                                       | 4/10/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 20.1 | Business Intelligence with Tableau                          | 4/13/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 20.2 | Interconnected Data with Tableau                            | 4/15/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 20.3 | Real-World Tableau Dashboarding                             | 4/17/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 21.1 | Introduction to Machine Learning and Regression             | 4/20/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 21.2 | Classification and Clustering                               | 4/22/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 21.3 | Introduction to Neural Networks and Deep Learning           | 4/24/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 21.4 | Convolutional Neural Networks & Deep Learning               | 4/27/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 22.1 | Introduction to Big Data & Hadoop                           | 4/29/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 22.2 | Natural Language Processing with Spark                      | 5/1/2019   | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 23.1 | Final Project Work                                          | 5/4/2019   | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 23.2 | Final Project Work                                          | 5/6/2019   | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 23.3 | Final Project Work                                          | 5/8/2019   | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 24.1 | Final Project Work                                          | 5/11/2019  | S | 10:00 AM | 6/27/2018 1:43 PM | Show More | 
+| 24.2 | Final Project Work                                          | 5/13/2019  | M | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 24.3 | Final Presentations                                         | 5/15/2019  | W | 6:30 PM  | 6/27/2018 1:43 PM | Show More | 
+| 24.4 | Final Presentations                                         | 5/18/2019  | S | 10:00 AM | 6/27/2018 1:44 PM | Show More | 
 
